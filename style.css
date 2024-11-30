@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+header h1{
+text-align:centre;
+background-color:palegreen;
+
+
+}
+main oli{
+
+}
+
+.left{
+float: left;
+}
+.right{
+    float: right;
+
+}
+.one{
+    display: flex;
+    height: 100px;
+}
+.left1{
+float: left;
+}
+.right1{
+    float: right;
+
+}
+.two{
+    display: flex;
+    height: 100px;
+}
+h1{
+    text-align: center;
+}
+nav{
+    background-color: lemonchiffon;
+    border-radius: 20px;
+}
+main p{
+    background-color: rgb(255, 53, 130);
+    border-radius: 20px;
+}
