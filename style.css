@@ -47,6 +47,6 @@ main p{
     border-radius: 20px;
 }
 footer{
-    background-color:white;
+    border:3px solid white;
     border-radius: 13px;
 }
